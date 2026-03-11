@@ -1,0 +1,21 @@
+Ticket_ID,Subject,Message,Category,Priority,Date
+1,Login problem,I cannot log into my account after resetting password,,,2026-03-10
+2,Payment failed,My payment failed when trying to buy a subscription,,,2026-03-10
+3,Website Bug,The checkout page crashes when I click confirm,,,2026-03-10
+4,Feature Request,Please add dark mode to the dashboard,,,2026-03-10
+5,Password Reset,I did not receive the password reset email,,,2026-03-11
+6,Biling Issue,I was charged twice for my order,,,2026-03-11
+7,Login Problem,The system shows error 500 during login,,,2026-03-11
+8,Bug Report,Product images are not loading on the website,,,2026-03-11
+9,Feature Request,It would be useful to export reports as PDF,,,2026-03-11
+10,Account Access,My account is locked after multiple attempts,,,2026-03-11
+11,Payment Refund,I want a refund for my last purchase,,,2026-03-11
+12,System Error,The dashboard shows incorrect data today,,,2026-03-11
+13,Mobile Bug,App crashes when opening notifications,,,2026-03-11
+14,FeatureSuggestion,Add multi-language support for users,,,2026-03-11
+15,Login Problem,Login page keeps refreshing repeatedly,,,2026-03-11
+16,Biling Question,Why was my invoice amount higher this month,,,2026-03-11
+17,Website Issue,Navigation menu does not work on mobile,,,2026-03-11
+18,Feature Error,Add notification settings customization,,,2026-03-11
+19,Paymet Error,My credit card is declined but works elsewhere,,,2026-03-11
+20,Bug Report,Profile update button does not save changes,,,2026-03-11
